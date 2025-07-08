@@ -19,14 +19,6 @@ This project is a smart and interactive desktop assistant that supports both voi
 
 ---
 
-## 🖼️ Demo Screenshot
-
-> *(Add your screenshot here)*  
-> Example:  
-> ![App Screenshot](screenshot.png)
-
----
-
 ## 🚀 Getting Started
 
 ### 🔧 Prerequisites
@@ -34,6 +26,8 @@ This project is a smart and interactive desktop assistant that supports both voi
 - Python 3.8 or above
 - An OpenAI-compatible API key (e.g., OpenRouter or OpenAI)
 - Internet connection for API requests
+
+---
 
 ### 📦 Installation
 
@@ -51,6 +45,7 @@ cd ai-voice-assistant
 pip install openai wikipedia sounddevice wavio SpeechRecognition pyttsx3 requests Pillow
 ```
 
+---
 # 🛠️ Tech Stack
 
 Python – Main programming language
@@ -67,6 +62,7 @@ OpenAI (or OpenRouter) – ChatGPT API integration
 
 Wikipedia API, wttr.in API – For info, weather, etc.
 
+---
 # 👨‍💻 Authors
 
 Arya Kant Pathak
@@ -75,6 +71,7 @@ Arya Kant Pathak
 Saswat Subhang
 📧 saswatsubhang765@gmail.com
 
+---
 # 📄 License
 This project is open-source and available under the MIT License.
 Feel free to use, modify, and share!
